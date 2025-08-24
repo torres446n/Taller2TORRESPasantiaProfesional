@@ -25,6 +25,7 @@ Lo que podría obstaculizar mi progreso es la resistencia al cambio tecnológico
 Realidad Virtual y Realidad Aumentada (VR/AR)
 * Desarrollo de entornos inmersivos para entretenimiento, educación, simulación y capacitación.
 * Una rama emergente con gran potencial en sectores creativos e industriales.
+
 Considero que esta área ofrece un enorme potencial porque combina la tecnología con la creatividad, permitiendo generar experiencias inmersivas que pueden transformar sectores como la educación, el entretenimiento, la salud y la capacitación empresarial.
 
 
