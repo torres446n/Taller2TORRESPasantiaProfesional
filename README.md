@@ -1,5 +1,5 @@
 #### Taller2 Pasantia Profesional
-# DISEÑANDO SU PLAN DE DESARROLLO PROFESIONAL A UN AÑO
+# DISEÑANDO MI PLAN DE DESARROLLO PROFESIONAL A UN AÑO
 
 ## PARTE 1: Autoevaluación y reflexión:
 
@@ -12,4 +12,21 @@ En mi vida me he dado cuenta y me han hecho saber que tengo una gran variedad de
 
 ### 1.2 Mis Áreas de Mejora (Debilidades):
 Mi conocimiento de lenguajes de programación no es el que debería ser, me cuesta preguntar sobre las dudas que me surgen en las clases, siento que aún me falta aprender más a fonde de programación en python y entiendo muy bien el inglés pero siento que aun me cuesta hablarlo por pena a pronunciar algo mal.
+
+### 1.3 Oportunidades en el Horizonte:
+A nivel de mercado, la transformación digital de las empresas, el auge del trabajo remoto y la creciente demanda de soluciones basadas en la automatización ofrecen oportunidades para que los ingenieros aporten valor estratégico. También la realidad virtual y la realidad auemntada día a día crecen y se comienzan a usar en aplicaciones en educación, simulación y entretenimiento.
+
+### 1.4 Amenzas o Retos:
+Lo que podría obstaculizar mi progreso es la resistencia al cambio tecnológico, ya que en un campo en constante evolución es fundamental mantenerse actualizado y abierto a nuevas herramientas.
+
+## PARTE 2:  Selección de Ruta y Perfil Objetivo
+
+### 2.1 Ruta de Aprendizaje Seleccionada:
+Realidad Virtual y Realidad Aumentada (VR/AR)
+* Desarrollo de entornos inmersivos para entretenimiento, educación, simulación y capacitación.
+* Una rama emergente con gran potencial en sectores creativos e industriales.
+Considero que esta área ofrece un enorme potencial porque combina la tecnología con la creatividad, permitiendo generar experiencias inmersivas que pueden transformar sectores como la educación, el entretenimiento, la salud y la capacitación empresarial.
+
+
+
 
